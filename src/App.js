@@ -1,5 +1,5 @@
 import MyLocation from './MyLocation';
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 // import test from MyLocation
 
 function App() {
