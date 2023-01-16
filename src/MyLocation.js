@@ -21,7 +21,7 @@ export default function MyLocation () {
     )}, [])
 
 
-
+    https://api.openweathermap.org/data/3.0/onecall?lat=33.44&lon=-94.04&exclude=hourly,daily&appid={API key}
 
     return (
      <div>
